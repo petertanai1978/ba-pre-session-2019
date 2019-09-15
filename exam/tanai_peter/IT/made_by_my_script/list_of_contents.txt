@@ -1,0 +1,11 @@
+IT/
+Math/
+
+../../IT:
+basics.sh
+made_by_my_script/
+
+../../IT/made_by_my_script:
+list_of_contents.txt
+
+../../Math:
